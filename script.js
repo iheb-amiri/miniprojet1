@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
             return;
         }
 
-        alert('Formulaire soumis avec succès !'); // Remplacez ceci par votre logique de soumission de formulaire réelle
+        alert('Formulaire soumis avec succès !'); 
     });
 
     nameInput.addEventListener('input', function () {
